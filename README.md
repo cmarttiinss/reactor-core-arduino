@@ -1,6 +1,6 @@
 # ⚛️ Simulação de Reator Nuclear com Arduino Uno R3
 
-> Projeto escolar desenvolvido na disciplina de **Sistemas Embarcados** do Curso Técnico de Desenvolvimento de Sistemas — ETEC Basilides de Godoy (CEETEPS / Paula Souza) · São Paulo · 2025
+> Projeto escolar desenvolvido na disciplina de **Sistemas Embarcados** do Curso Técnico de Desenvolvimento de Sistemas — ETEC Basilides de Godoy (CEETEPS / Paula Souza) · São Paulo · 2026
 
 ---
 
@@ -175,6 +175,6 @@ O firmware foi escrito em **C++** para Arduino Uno R3, utilizando a biblioteca `
 <div align="center">
 
 Desenvolvido com ⚡ por **Cauã · Davy · Enzo · Guilherme · Gustavo**  
-ETEC Basilides de Godoy · Curso Técnico de Desenvolvimento de Sistemas · 2025
+ETEC Basilides de Godoy · Curso Técnico de Desenvolvimento de Sistemas · 2026
 
 </div>
